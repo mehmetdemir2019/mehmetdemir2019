@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-19061
-Fork on GitHub
-5707
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 
 [![MasterHead](https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg)
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
@@ -34,28 +18,3 @@ preview
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetdemir2019&show_icons=true&locale=en&layout=compact" alt="mehmetdemir2019" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmetdemir2019&" alt="mehmetdemir2019" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
