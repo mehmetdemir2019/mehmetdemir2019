@@ -1,5 +1,4 @@
-
-[![MasterHead](https://w0.peakpx.com/wallpaper/688/193/HD-wallpaper-ghibli-a%C2%B7-github-topics-a%C2%B7-github-cute-ghibli-thumbnail.jpg)
+ ![MasterHead](https://backiee.com/static/wpdb/wallpapers/560x315/318893.jpg)
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
