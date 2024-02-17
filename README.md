@@ -1,5 +1,5 @@
 
-[![MasterHead](https://backiee.com/static/wpdb/wallpapers/560x315/318893.jpg)
+![MasterHead](https://backiee.com/static/wpdb/wallpapers/560x315/318893.jpg)
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
